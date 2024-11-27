@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: germilagger@gmail.com
+Main-Class: Calculadora
+X-COMMENT: Proyecto de una Calculadora simple con Java y Swing
